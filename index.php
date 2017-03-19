@@ -12,13 +12,13 @@
 			</div>
 			<ul id="navigation">
 				<li class="active">
-					<a href="index.html">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 				<li>
-					<a href="features.html">Features</a>
+					<a href="app.php">Features</a>
 				</li>
 				<li>
-					<a href="about.html">About</a>
+					<a href="about.php">About</a>
 				</li>
 			</ul>
 		</div>
@@ -30,7 +30,7 @@
 				<h2>Time Management with style</h2>
 				<p>
 					Create your own time schedule with this application.
-					<span><a href="app.html" class="btn">Try It Now!</a><b>1 Day schedule free</b></span>
+					<span><a href="app.php" class="btn">Try It Now!</a><b>1 Day schedule free</b></span>
 				</p>
 			</div>
 		</div>
